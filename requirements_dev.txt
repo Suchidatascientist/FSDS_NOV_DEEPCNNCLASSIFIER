@@ -1,5 +1,6 @@
 tensorflow
 dvc
+box
 pandas
 notebook
 numpy
